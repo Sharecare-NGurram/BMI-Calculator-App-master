@@ -1,6 +1,5 @@
 import 'package:bmi_calculator_app/Components/BottomContainer_Button.dart';
 import 'package:bmi_calculator_app/constants.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import '../Components/Reusable_Bg.dart';
 
